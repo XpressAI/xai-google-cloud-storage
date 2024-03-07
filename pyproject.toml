@@ -1,0 +1,13 @@
+[project]
+name = "xai-google-cloud-storage"
+version = "0.1.0"
+description = "Xircuits component library for uploading and downloading files to and from Google Cloud Storage"
+authors = [{ name = "XpressAI", email = "eduardo@xpress.ai" }]
+license = "MIT"
+readme = "README.md"
+repository = "https://github.com/XpressAI/xai-google-cloud-storage"
+keywords = ["xircuits", "google-cloud"]
+
+# Xircuits-specific configurations
+[tool.xircuits]
+requirements_path = "requirements.txt"
